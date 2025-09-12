@@ -4,7 +4,7 @@
 <img align="left"><img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/284b3464-c518-445a-829d-c2281426c664" />
 
 
-- 🔭 I’m currently working on **Heathcare**
+- 🔭 I’m currently working on ** Rural Heathcare Telemedicine Solution**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
