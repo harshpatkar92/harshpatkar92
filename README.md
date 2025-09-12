@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Patkar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-<img align="left"><img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/284b3464-c518-445a-829d-c2281426c664" />
+<img align="left"><img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/284b3464-c518-445a-829d-c2281426c664" />
 
 
 - 🔭 I’m currently working on **Heathcare**
