@@ -21,7 +21,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ABHAYBARMAN067&color=00A7D8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
-<a href="https://github.com/ABHAYBARMAN067">
+<a href="https://github.com/harshpatkar92">
   <img src="https://img.shields.io/github/followers/ABHAYBARMAN067?style=for-the-badge&color=00A7D8&labelColor=062B3A" alt="GitHub Followers" />
 </a>
 
@@ -40,7 +40,7 @@
 ## 🙋‍♂️ About Me
 
 ```js
-const abhay = {
+const harsh = {
   name:      "Harsh Patkar",
   username:  "harshpatkar92",
   location:  "India 🇮🇳",
