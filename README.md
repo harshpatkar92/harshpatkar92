@@ -1,14 +1,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:062B3A,50:004A67,100:00A7D8&height=200&section=header&text=Harsh%20Patkar&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:062B3A,50:004A67,100:00A7D8&height=200&section=header&text=Harsh%20Patkar&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20%20&descAlignY=58&descSize=18&fontColor=ffffff&animation=twinkling" width="100%" />
 
 # 👋 Hi, I'm Harsh Patkar
 ### 🚀 Full Stack Developer | 
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A7D8&center=true&vCenter=true&width=700&lines=const+abhay+%3D+new+Developer();Building+Full+Stack+%2B+Mobile+Apps;Learning+Advanced+React+%26+React+Native;Open+to+Collaborate;Build.+Break.+Learn.+Grow."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A7D8&center=true&vCenter=true&width=700&lines=const+Harsh+%3D+new+Developer();Building+Full+Stack+%2B+Learning+Advanced+React+%26+React+Native;Open+to+Collaborate;Build.+Break.+Learn.+Grow."
     alt="Typing SVG"
   />
 </a>
