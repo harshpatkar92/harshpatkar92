@@ -1,7 +1,7 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38EF7D,50:141E30,100:00A7D8&height=200&section=header&text=Harsh%20Patkar&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20%20&descAlignY=58&descSize=18&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38EF7D,50:141E30,100:00A7D8&height=200&section=header&text=Harsh%20Patkar&fontSize=60&fontAlignY=38&desc=|Full%20Stack%20Developer%20%7C%20%20&descAlignY=58&descSize=18&fontColor=ffffff&animation=twinkling" width="100%" />
 
 # 👋 Hi, I'm Harsh Patkar
 ### 🚀|| Full Stack Developer || 
